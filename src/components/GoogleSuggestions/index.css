@@ -1,0 +1,32 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  position: relative;
+}
+.googleLogo {
+  height: 100px;
+  margin-bottom: 35px;
+}
+.input-container {
+  border: 0px soild;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  border-radius: 15px;
+  width: 500px;
+}
+.search-icon {
+  height: 25px;
+  margin-left: 5px;
+}
+.input {
+  border: 0px solid;
+  outline: none;
+  height: 45px;
+}
+.ul-cont {
+  margin: 0px;
+}

@@ -1,0 +1,31 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+p {
+  color: #475569;
+  font-family: 'Roboto';
+  margin: 0px;
+  font-size: 19px;
+}
+
+img {
+  height: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+  outline: none;
+}
+.Item-cont {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 10px;
+  align-items: center;
+  margin-left: 0px;
+}
+.inp-cont {
+  display: flex;
+  align-items: center;
+}
+.input {
+  width: 90%;
+}
